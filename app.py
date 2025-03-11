@@ -48,5 +48,4 @@ if st.button("Check") or user_password:
     else:
         st.text("❌ Weak password, improve it using above suggestions")
     
-    
-st.text(points)
+
